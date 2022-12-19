@@ -5,7 +5,7 @@
 <br>Jurusan		: [Teknik Informatika](http://if.uinsgd.ac.id/) [UIN Sunan Gunung Djati Bandung](https://uinsgd.ac.id/) 
 
 ## DESKRIPSI UMUM
-1).Untuk menransposisi sebuah matrix (membalikkan posisi baris dan kolom), kita dapat menggunakan rumus berikut:
+1).Untuk mentransposisi sebuah matrix (membalikkan posisi baris dan kolom), kita dapat menggunakan rumus berikut:
 matrix_transpose[j][i] = matrix[i][j]
 Di mana matrix adalah matrix yang ingin kita transposisi, dan matrix_transpose adalah matrix hasil transposisi. i dan j adalah indeks baris dan kolom dari matrix_transpose.
 Program ini akan meminta input ukuran matrix, kemudian akan meminta input isi matrix. Setelah itu, program akan menampilkan matrix sebelum dan sesudah transposisi.
