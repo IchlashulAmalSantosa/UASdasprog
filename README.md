@@ -11,7 +11,6 @@ Di mana matrix adalah matrix yang ingin kita transposisi, dan matrix_transpose a
 Program ini akan meminta input ukuran matrix, kemudian akan meminta input isi matrix. Setelah itu, program akan menampilkan matrix sebelum dan sesudah transposisi.
 ==================================================================================================================================================================
 2).Program ini akan meminta input sebuah bilangan, kemudian akan mengecek apakah bilangan tersebut habis dibagi 3, 5, atau 7. Jika ya, maka program akan mencetak "Bilangan habis dibagi 3, 5, atau 7". Jika tidak, program akan mencetak "Bilangan tidak habis dibagi 3, 5, atau 7".
-
 Sebagai contoh, jika kita memasukkan bilangan 15, maka program akan mencetak "Bilangan habis dibagi 3, 5, atau 7". Namun jika kita memasukkan bilangan 8, maka program akan mencetak "Bilangan tidak habis dibagi 3, 5, atau 7".
 
 ## SOURCE CODE
